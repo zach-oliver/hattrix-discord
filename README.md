@@ -9,12 +9,13 @@ Got questions? Connect, like, subscribe on all the major platforms:
 - *_GitHub (here)_* - https://github.com/zach-oliver/hattrix-discord
 
 ## Versions
-###**Palace Server** `Version 1.2`
 
-####*Change Summary*
+### **Palace Server** `Version 1.2`
+
+#### *Change Summary*
 - Adjust permissions approach to have roles for channel permissions and others only for channel access
 
-####*Release Notes*
+#### *Release Notes*
 - *Private* roles changed and can now be reused for other servers via server template
 
 `Everyone` now has basic permissions without channel access including:
@@ -33,12 +34,12 @@ Additionally:
 - Created *private* roles only for adding to each category and granting *Read Text Messages & See Voice Channels* permissions
 
 
-###**Palace Server** `Version 1.1`
+### **Palace Server** `Version 1.1`
 
-####*Change Summary*
+#### *Change Summary*
 - Realized Discord has channel categories so you can inherit permissions under a folder
 
-####*Release Notes*
+#### *Release Notes*
 - Created  `START HERE` category for #👋-welcome and #📢-announcements to help point newcomers
 - Updated  `TEXT CHANNELS` category to `PUBLIC FORUMS`
 - Renamed **lobby** `voice` channel to **center-stage**
@@ -50,12 +51,12 @@ Additionally:
 - Duplicated _private_ role for other group segmentations providing role-only `text` and `voice` channel access
 
 
-###**Palace Server** `Version 1.0`
+### **Palace Server** `Version 1.0`
 
-####*Change Summary*
+#### *Change Summary*
 - Taking a lot from *Warp World's* server I found on the *Turnip Exchange* during my early _Animal Crossing_ days, I've configured the following.
 
-####_Release Notes_
+#### _Release Notes_
 - 👋-welcome `text` channel created!
 - 👋-welcome write allowed by `Admins`, read-only for `Everyone`
 - Created `Admins` role for Administrators with Palace Server
