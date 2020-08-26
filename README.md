@@ -1,6 +1,6 @@
 # Hattrix Palace on Discord
 ## Introduction
-For [Hattrix](https://www.facebook.com/hattrix27), I've built a [Discord Server](https://discord.gg/MGJ87zX) and decided to document our journey here to share or help others learn as well.
+For [Hattrix](https://www.facebook.com/hattrix27), I've built a [Discord Server](https://discord.gg/MGJ87zX) and decided to document the journey here to help others learn.
 
 Got questions? Connect, like, subscribe on all the major platforms:
 - *_Facebook_* - https://www.facebook.com/hattrix27
@@ -9,6 +9,21 @@ Got questions? Connect, like, subscribe on all the major platforms:
 - *_GitHub (here)_* - https://github.com/zach-oliver/hattrix-discord
 
 ## Versions
+
+### **Palace Server** `Version 1.3`
+
+#### *Change Summary*
+- Added system integrations to help with community
+
+#### *Release Notes*
+- [MEE6](https://mee6.xyz/) added
+    - Provides welcome messaging to all new visitors
+    - [Gamifies](https://www.dictionary.com/browse/gamify) server-interaction through experience points and leveling 
+- `PENNY ARCADE` category added for in-server games
+- [Myuu](https://myuu.xyz/) added bringing Pokemon to the server
+- 🕹️-pokemon-cafe `text` channel added for usage of [Myuu](https://myuu.xyz/) within the server
+- [Zapier](https://zapier.com/) added to integrate team document repository notifications to private team channels
+
 
 ### **Palace Server** `Version 1.2`
 
